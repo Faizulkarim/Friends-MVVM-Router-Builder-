@@ -1,4 +1,4 @@
-# Friends iOS 
+# Friends app MVVM+Router+Builder 
 
 ## Purpose
 Friends is a iOS For example of MVVM + COMBINE 
